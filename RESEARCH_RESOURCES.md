@@ -4,6 +4,18 @@ Curated public resources associated with publications co-authored by **Dr. Fahmi
 
 > **Attribution policy:** Many research repositories are maintained by first authors or collaborators. This index links to the original public source rather than duplicating third-party code. Repository ownership is shown explicitly. Please follow the license and citation instructions in each source repository.
 
+## Thematic Research Hubs
+
+The GitHub portfolio is organized into five focused research hubs. These provide stable homes for verified publication resources and future original/shareable research code.
+
+| Hub | Scope |
+|---|---|
+| [Smart Farming & Computer Vision](https://github.com/DrFahmidAlFarid/Smart-Farming-Computer-Vision) | Crop disease, precision agriculture, lightweight vision, Agricultural IoT |
+| [Medical AI & XAI](https://github.com/DrFahmidAlFarid/Medical-AI-XAI) | Medical imaging, segmentation/classification, explainability |
+| [Federated & Privacy-Preserving AI](https://github.com/DrFahmidAlFarid/Federated-Privacy-AI) | Federated learning, privacy-aware AI, FL + XAI |
+| [Robotics & Computer Vision](https://github.com/DrFahmidAlFarid/Robotics-Computer-Vision) | ROS/ROS2, robot perception, HRI, intelligent automation |
+| [Industrial AI & Fault Diagnosis](https://github.com/DrFahmidAlFarid/Industrial-AI-Fault-Diagnosis) | Wafer defects, machinery diagnosis, condition monitoring |
+
 ## Verified publication-linked code and project repositories
 
 | Area | Publication / Project | Public resource | Resource type | Publication |
